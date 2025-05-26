@@ -50,5 +50,5 @@ Open notebooks in Google Colab or Jupyter and start exploring!
 
 🙋‍♂️ Author
 Vishnu Pal Singh
-GitHub Profile
+https://github.com/vishnupal-code
 
